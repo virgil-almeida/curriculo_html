@@ -1,1 +1,1 @@
-** Projeto para criação do seu currículo em HTML **
+# Projeto para criação do seu currículo em HTML
